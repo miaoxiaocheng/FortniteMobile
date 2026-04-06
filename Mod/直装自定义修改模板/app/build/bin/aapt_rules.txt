@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:39
+-keep class load.tencent.lib.FloatServiceView { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class load.tencent.lib.MainActivity { <init>(...); }
+

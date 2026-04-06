@@ -1,0 +1,4 @@
+# Referenced at /storage/emulated/0/Download/gui/直装自定义修改模板/app/build/bin/injected/AndroidManifest.xml:45
+-keep class load.tencent.lib.FloatServiceView { <init>(); }
+# Referenced at /storage/emulated/0/Download/gui/直装自定义修改模板/app/build/bin/injected/AndroidManifest.xml:28
+-keep class load.tencent.lib.MainActivity { <init>(); }
