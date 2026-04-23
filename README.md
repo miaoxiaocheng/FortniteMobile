@@ -2,7 +2,7 @@
 
 使用条件：解锁帧率和画质只支持安卓设备！苹果iOS暂不支持！
 
-FortniteTools下载：https://github.com/miaoxiaocheng/FortniteMobile/releases在发布页面
+FortniteTools下载：releases  在发布页面
 
 编译:
 Root编译条件：推荐使用Akode编译Fortnite.cpp，填入你GG修改器抓到的游戏帧率和画质地址偏移数据，就可以填入Fortnite.cpp对应地方，可编译二进制sh文件。
